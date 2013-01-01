@@ -1,0 +1,1151 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"seup",
+				"setupSelectChangeListener"
+			],
+			[
+				"widgets",
+				"widgetsRequested"
+			],
+			[
+				"loadSTop",
+				"loadStopsForId"
+			],
+			[
+				"loadStops",
+				"loadStopsForID"
+			],
+			[
+				"scanner",
+				"scanner_result"
+			],
+			[
+				"extract",
+				"extract_index"
+			],
+			[
+				"last_",
+				"last_access_time"
+			],
+			[
+				"LRU",
+				"LRU_counter"
+			],
+			[
+				"extend",
+				"extended_key"
+			],
+			[
+				"ex",
+				"extended_key"
+			],
+			[
+				"acces",
+				"access_token"
+			],
+			[
+				"FACEBOOK_",
+				"FACEBOOK_APP_SECRET"
+			],
+			[
+				"wr_reg",
+				"wr_regnum_forwarded"
+			],
+			[
+				"wr_re",
+				"wr_regnum_forwarded"
+			],
+			[
+				"forwardB",
+				"forwardBOut"
+			],
+			[
+				"rd",
+				"rd1_data2"
+			],
+			[
+				"for",
+				"forwardAOut"
+			],
+			[
+				"PC_plu",
+				"PC_plus4"
+			],
+			[
+				"ALUS",
+				"ALUSrc"
+			],
+			[
+				"A",
+				"ALUSrc"
+			],
+			[
+				"xoauth",
+				"xoauth_request"
+			],
+			[
+				"setup",
+				"setupSubmitButton"
+			],
+			[
+				"datepick",
+				"datepickerVisible"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"initClientRequest",
+				"initClientRequestEncoded"
+			],
+			[
+				"FACEBOOK",
+				"FACEBOOK_APP_ID"
+			],
+			[
+				"timer_i",
+				"timer_interrupt_loop"
+			],
+			[
+				"timer",
+				"timer_interrupt_loop"
+			],
+			[
+				"0xffff00",
+				"0xffff0014"
+			],
+			[
+				"insert_ele",
+				"insert_element_after"
+			],
+			[
+				"sort_list_loop",
+				"sort_list_loop_end"
+			],
+			[
+				"sort_list_",
+				"sort_list_loop"
+			],
+			[
+				"remove_eleme",
+				"remove_element_end"
+			],
+			[
+				"insert_element_after_prev",
+				"insert_element_after_prev_if_else"
+			],
+			[
+				"interp",
+				"interpret_call_paint"
+			],
+			[
+				"inter",
+				"interpret_post_function_call"
+			],
+			[
+				"byteLoad",
+				"byteLoadMuxOut"
+			],
+			[
+				"dataMem",
+				"dataMemoryOut"
+			],
+			[
+				"dataMemory",
+				"dataMemoryByteOut"
+			],
+			[
+				"Con",
+				"controlTypeJumpBranch"
+			],
+			[
+				"pcReg",
+				"pcReg1AluOut"
+			],
+			[
+				"pcBra",
+				"pcBranchOffsetAluZero"
+			],
+			[
+				"pcBranch",
+				"pcBranchOffsetAluOverflow"
+			],
+			[
+				"pcRegAlu",
+				"pcReg1AluOut"
+			],
+			[
+				"pcRe",
+				"pcRegAluOut"
+			],
+			[
+				"cl",
+				"clk"
+			],
+			[
+				"signE",
+				"signExtenderOut"
+			],
+			[
+				"rtTEst",
+				"rtTest"
+			],
+			[
+				"wr_",
+				"wr_enable"
+			],
+			[
+				"round",
+				"roundNumber"
+			],
+			[
+				"h",
+				"h000000AA"
+			],
+			[
+				"player",
+				"playerNum"
+			],
+			[
+				"xtemp",
+				"xtempb"
+			],
+			[
+				"change",
+				"changePictureInSlideshow"
+			],
+			[
+				"marker",
+				"markerInfo"
+			],
+			[
+				"closePopup",
+				"_closePopup"
+			],
+			[
+				"lat",
+				"latitude"
+			],
+			[
+				"pointIndex",
+				"pointIndexInList"
+			],
+			[
+				"replaceMent",
+				"replacementObj"
+			],
+			[
+				"pr",
+				"proto	Prototype"
+			],
+			[
+				"pointInd",
+				"pointIndex"
+			],
+			[
+				"pointIn",
+				"pointIndexInList"
+			],
+			[
+				"pointInde",
+				"pointIndexInList"
+			],
+			[
+				"toF",
+				"toFixedDown"
+			],
+			[
+				"curr",
+				"currentBest"
+			],
+			[
+				"cur",
+				"currentBest"
+			],
+			[
+				"smaller",
+				"smallerDimVal"
+			],
+			[
+				"pivot",
+				"pivotNewIndex"
+			],
+			[
+				"pivoN",
+				"pivotNewIndex"
+			],
+			[
+				"prot",
+				"proto	Prototype"
+			],
+			[
+				"point",
+				"pointIndex"
+			],
+			[
+				"webkit",
+				"webkit-transition-property"
+			],
+			[
+				"web",
+				"webkit-transition-property"
+			],
+			[
+				"on",
+				"onFullScreenChange"
+			],
+			[
+				"proto",
+				"prototype"
+			],
+			[
+				"docum",
+				"documentElement"
+			],
+			[
+				"LOC",
+				"LOCATION_STARTING"
+			],
+			[
+				"_spin",
+				"_spinInterval"
+			],
+			[
+				"LOCATION",
+				"LOCATION_SIEBEL"
+			],
+			[
+				"fetchPhotos",
+				"fetchPhotosForAlbumsWithURL"
+			],
+			[
+				"fetchAlbums",
+				"fetchPhotosForAlbums"
+			],
+			[
+				"fetchFriends",
+				"fetchFriendsWithUserForURL"
+			],
+			[
+				"fetchAl",
+				"fetchAlbumsForUserWithURL"
+			],
+			[
+				"user",
+				"userID"
+			],
+			[
+				"hide",
+				"hidePromoText"
+			],
+			[
+				"pla",
+				"playerNum"
+			],
+			[
+				"start-round-",
+				"start-round-button"
+			],
+			[
+				"transiti",
+				"transitioned"
+			],
+			[
+				"start-",
+				"start-round-ready"
+			],
+			[
+				"sendMessage",
+				"sendMessageToWindow"
+			],
+			[
+				"sendMes",
+				"sendMessageToClient"
+			],
+			[
+				"shared",
+				"sharedState"
+			],
+			[
+				"update",
+				"updateSharedStateFromParent"
+			],
+			[
+				"web_hom",
+				"web_homeworks_assignments"
+			],
+			[
+				"open",
+				"openAnotherClient"
+			],
+			[
+				"defaul",
+				"defaultApproval"
+			],
+			[
+				"WSC_COMMENT",
+				"WSC_COMMENTS_SKIP_MODERATION"
+			],
+			[
+				"mosaic",
+				"mosaic_name"
+			],
+			[
+				"sour",
+				"source"
+			],
+			[
+				"tiles",
+				"tiles_folder"
+			],
+			[
+				"source",
+				"sourceImage"
+			],
+			[
+				"createI",
+				"createMosaicStep"
+			],
+			[
+				"ba",
+				"backgroundColor"
+			],
+			[
+				"format",
+				"formatImages"
+			],
+			[
+				"selec",
+				"selectSource"
+			],
+			[
+				"fileUp",
+				"fileUpload"
+			],
+			[
+				"formatImage",
+				"formatImagesStep"
+			],
+			[
+				"fileUpload",
+				"fileUploadStep"
+			],
+			[
+				"thum",
+				"thumbnail_url"
+			],
+			[
+				"thumb",
+				"thumbnail_dir"
+			],
+			[
+				"thu",
+				"thumbnails"
+			],
+			[
+				"thumbn",
+				"thumbnail_dir"
+			],
+			[
+				"acti",
+				"activeStep"
+			],
+			[
+				"getFacebo",
+				"getFacebookObject"
+			],
+			[
+				"_",
+				"_SERVER"
+			],
+			[
+				"payment",
+				"payment_currency"
+			],
+			[
+				"paymen",
+				"payment_status"
+			],
+			[
+				"template",
+				"template_image_path"
+			],
+			[
+				"people",
+				"people_image_path"
+			],
+			[
+				"socialLogged",
+				"socialLoggedIn"
+			],
+			[
+				"COMPILER",
+				"COMPILER_FLAGS"
+			],
+			[
+				"COM",
+				"COMPILER"
+			],
+			[
+				"COMPIL",
+				"COMPILER_FLAGS"
+			],
+			[
+				"COMP",
+				"COMPILER_FLAGS"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 67.0,
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"packa in",
+				"Package Control: Install Package"
+			],
+			[
+				"set jquery",
+				"Set Syntax: jQuery (JavaScript)"
+			],
+			[
+				"latex",
+				"Snippet: Turn selection into LaTeX environment"
+			],
+			[
+				"ajvascr",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"package instal",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"list ",
+				"Package Control: List Packages"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"package l",
+				"Package Control: List Packages"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"java",
+				"Set Syntax: Java"
+			],
+			[
+				"packageupg",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"snipp",
+				"Snippet: html"
+			],
+			[
+				"install pac",
+				"Package Control: Install Package"
+			],
+			[
+				"remove pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"inde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"intent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"",
+				"Indentation: Reindent Lines"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Matthew/.profile",
+		"/Users/Matthew/.bashrc",
+		"/Users/Matthew/.ssh/config",
+		"/private/var/folders/bj/__19q1q53qs6gq4pntp7bbhc0000gn/T/17721bea-1433-4e33-9fec-a48d40fd7e15/home/mdierker/mdev.my.eatcumtd.com/js/Widget.js",
+		"/private/var/folders/bj/__19q1q53qs6gq4pntp7bbhc0000gn/T/17721bea-1433-4e33-9fec-a48d40fd7e15/home/mdierker/mdev.my.eatcumtd.com/js/widgets/laundry/laundry.html",
+		"/private/var/folders/bj/__19q1q53qs6gq4pntp7bbhc0000gn/T/17721bea-1433-4e33-9fec-a48d40fd7e15/home/mdierker/mdev.my.eatcumtd.com/php/db/getuserswidgets.php",
+		"/private/var/folders/bj/__19q1q53qs6gq4pntp7bbhc0000gn/T/17721bea-1433-4e33-9fec-a48d40fd7e15/home/mdierker/mdev.my.eatcumtd.com/php/db/addwidget.php",
+		"/private/var/folders/bj/__19q1q53qs6gq4pntp7bbhc0000gn/T/17721bea-1433-4e33-9fec-a48d40fd7e15/home/mdierker/mdev.my.eatcumtd.com/php/db/updatewidget.php",
+		"/private/var/folders/bj/__19q1q53qs6gq4pntp7bbhc0000gn/T/17721bea-1433-4e33-9fec-a48d40fd7e15/home/mdierker/mdev.my.eatcumtd.com/php/db/deletewidget.php",
+		"/private/var/folders/bj/__19q1q53qs6gq4pntp7bbhc0000gn/T/17721bea-1433-4e33-9fec-a48d40fd7e15/home/mdierker/mdev.my.eatcumtd.com/js/widgets/cumtd/bus.css",
+		"/private/var/folders/bj/__19q1q53qs6gq4pntp7bbhc0000gn/T/17721bea-1433-4e33-9fec-a48d40fd7e15/home/mdierker/mdev.my.eatcumtd.com/css/site.css",
+		"/private/var/folders/bj/__19q1q53qs6gq4pntp7bbhc0000gn/T/17721bea-1433-4e33-9fec-a48d40fd7e15/home/mdierker/mdev.my.eatcumtd.com/js/Site.js",
+		"/private/var/folders/bj/__19q1q53qs6gq4pntp7bbhc0000gn/T/17721bea-1433-4e33-9fec-a48d40fd7e15/home/mdierker/mdev.my.eatcumtd.com/js/widgets/weather/weather.js",
+		"/private/var/folders/bj/__19q1q53qs6gq4pntp7bbhc0000gn/T/17721bea-1433-4e33-9fec-a48d40fd7e15/home/mdierker/mdev.my.eatcumtd.com/index.php",
+		"/private/var/folders/bj/__19q1q53qs6gq4pntp7bbhc0000gn/T/17721bea-1433-4e33-9fec-a48d40fd7e15/home/mdierker/mdev.my.eatcumtd.com/js/widgets/laundry/laundry.js",
+		"/private/var/folders/bj/__19q1q53qs6gq4pntp7bbhc0000gn/T/17721bea-1433-4e33-9fec-a48d40fd7e15/home/mdierker/mdev.my.eatcumtd.com/js/widgets/laundry/laundry.css",
+		"/private/var/folders/bj/__19q1q53qs6gq4pntp7bbhc0000gn/T/17721bea-1433-4e33-9fec-a48d40fd7e15/home/mdierker/mdev.my.eatcumtd.com/php/rest/gethalllaundry.php",
+		"/private/var/folders/bj/__19q1q53qs6gq4pntp7bbhc0000gn/T/17721bea-1433-4e33-9fec-a48d40fd7e15/home/mdierker/mdev.my.eatcumtd.com/php/rest/laundrylibrary.php",
+		"/private/var/folders/bj/__19q1q53qs6gq4pntp7bbhc0000gn/T/17721bea-1433-4e33-9fec-a48d40fd7e15/home/mdierker/mdev.my.eatcumtd.com/php/rest/laundry.txt",
+		"/private/var/folders/bj/__19q1q53qs6gq4pntp7bbhc0000gn/T/17721bea-1433-4e33-9fec-a48d40fd7e15/home/mdierker/mdev.my.eatcumtd.com/js/widgets/cumtd/bus.js",
+		"/private/var/folders/bj/__19q1q53qs6gq4pntp7bbhc0000gn/T/17721bea-1433-4e33-9fec-a48d40fd7e15/home/mdierker/mdev.my.eatcumtd.com/js/widgets/textarea/textarea.js",
+		"/private/var/folders/bj/__19q1q53qs6gq4pntp7bbhc0000gn/T/17721bea-1433-4e33-9fec-a48d40fd7e15/home/mdierker/mdev.my.eatcumtd.com/js/widgets/textarea/textarea.css",
+		"/private/var/folders/bj/__19q1q53qs6gq4pntp7bbhc0000gn/T/17721bea-1433-4e33-9fec-a48d40fd7e15/home/mdierker/mdev.my.eatcumtd.com/js/widgets/weather/weather.css",
+		"/private/var/folders/bj/__19q1q53qs6gq4pntp7bbhc0000gn/T/17721bea-1433-4e33-9fec-a48d40fd7e15/home/mdierker/mdev.my.eatcumtd.com/css/common/alertify.core.css",
+		"/private/var/folders/bj/__19q1q53qs6gq4pntp7bbhc0000gn/T/17721bea-1433-4e33-9fec-a48d40fd7e15/home/mdierker/mdev.my.eatcumtd.com/css/common/alertify.default.css",
+		"/private/var/folders/bj/__19q1q53qs6gq4pntp7bbhc0000gn/T/17721bea-1433-4e33-9fec-a48d40fd7e15/home/mdierker/mdev.my.eatcumtd.com/css/common/alertify.bootstrap.css",
+		"/private/var/folders/bj/__19q1q53qs6gq4pntp7bbhc0000gn/T/17721bea-1433-4e33-9fec-a48d40fd7e15/home/mdierker/mdev.my.eatcumtd.com/js/common/bootbox.min.js",
+		"/private/var/folders/bj/__19q1q53qs6gq4pntp7bbhc0000gn/T/17721bea-1433-4e33-9fec-a48d40fd7e15/home/mdierker/mdev.my.eatcumtd.com/js/GlobalFunctions.js",
+		"/private/var/folders/bj/__19q1q53qs6gq4pntp7bbhc0000gn/T/17721bea-1433-4e33-9fec-a48d40fd7e15/home/mdierker/mdev.my.eatcumtd.com/js/widgets/cumtd/bus-widget.html",
+		"/private/var/folders/bj/__19q1q53qs6gq4pntp7bbhc0000gn/T/0da18aa1-f92d-4c3f-9142-a34c2a417313/home/eatcumtd/.php/5.3/phprc",
+		"/private/var/folders/bj/__19q1q53qs6gq4pntp7bbhc0000gn/T/17721bea-1433-4e33-9fec-a48d40fd7e15/home/mdierker/mdev.my.eatcumtd.com/php/db/getwidget.php",
+		"/private/var/folders/bj/__19q1q53qs6gq4pntp7bbhc0000gn/T/17721bea-1433-4e33-9fec-a48d40fd7e15/home/mdierker/mdev.my.eatcumtd.com/js/common/datediff.js",
+		"/private/var/folders/bj/__19q1q53qs6gq4pntp7bbhc0000gn/T/17721bea-1433-4e33-9fec-a48d40fd7e15/home/mdierker/mdev.my.eatcumtd.com/js/common/date.js",
+		"/private/var/folders/bj/__19q1q53qs6gq4pntp7bbhc0000gn/T/17721bea-1433-4e33-9fec-a48d40fd7e15/home/mdierker/mdev.my.eatcumtd.com/js/widgets/cumtd/widget.html",
+		"/Users/Matthew/Documents/School/CS 373/HW9.tex",
+		"/Users/Matthew/Desktop/373 HW .txt",
+		"/Users/Matthew/Documents/School/CS 373/HW10.tex",
+		"/private/var/folders/bj/__19q1q53qs6gq4pntp7bbhc0000gn/T/979be103-cf3b-44c4-ba6d-8cc813935f26/home/mdierke2/CS225/mp7/maze.cpp",
+		"/Users/Matthew/Downloads/hw10.tex",
+		"/Users/Matthew/Documents/School/CS 373/HW8.tex",
+		"/Library/LaunchDaemons/com.crashplan.engine.plist",
+		"/var/log/system.log",
+		"/Library/Logs/CrashPlan/backup_files.log.0",
+		"/Library/Logs/CrashPlan/engine_error.log",
+		"/Library/Logs/CrashPlan/engine_output.log",
+		"/Library/Logs/CrashPlan/history.log.0",
+		"/Library/Logs/CrashPlan/install.log",
+		"/Library/Logs/CrashPlan/restore_files.log.0",
+		"/Library/Logs/CrashPlan/service.log.0",
+		"/Library/Logs/CrashPlan/app.log",
+		"/Users/Matthew/Documents/Scheduler/Scheduler Chrome/gmail.js",
+		"/Users/Matthew/Desktop/Currently/index.html",
+		"/Users/Matthew/Documents/Scheduler/Scheduler Chrome/manifest.json",
+		"/Users/Matthew/Documents/Chrome Extensions/Nyanbook/fb.js",
+		"/Users/Matthew/Documents/Chrome Extensions/Nyanbook/manifest.json",
+		"/Users/Matthew/.profiel",
+		"/Users/Matthew/Documents/Scheduler/Scheduler Chrome/style.css",
+		"/Users/Matthew/Documents/Scheduler/Scheduler Chrome/fb.js",
+		"/Users/Matthew/Downloads/codesite_tail.pack.04102009.js",
+		"/Users/Matthew/Documents/Scheduler/Scheduler Chrome/background.js",
+		"/private/var/folders/bj/__19q1q53qs6gq4pntp7bbhc0000gn/T/979be103-cf3b-44c4-ba6d-8cc813935f26/home/mdierke2/cs233/SPIMbot/spimbot.s",
+		"/private/var/folders/bj/__19q1q53qs6gq4pntp7bbhc0000gn/T/979be103-cf3b-44c4-ba6d-8cc813935f26/home/mdierke2/cs233/Lab7/problem1.s",
+		"/private/var/folders/bj/__19q1q53qs6gq4pntp7bbhc0000gn/T/979be103-cf3b-44c4-ba6d-8cc813935f26/home/mdierke2/cs233/SPIMbot/euclidean.s",
+		"/private/var/folders/bj/__19q1q53qs6gq4pntp7bbhc0000gn/T/979be103-cf3b-44c4-ba6d-8cc813935f26/home/mdierke2/cs233/Lab9/p2.s",
+		"/private/var/folders/bj/__19q1q53qs6gq4pntp7bbhc0000gn/T/979be103-cf3b-44c4-ba6d-8cc813935f26/home/mdierke2/cs233/Lab9/p1.s",
+		"/private/var/folders/bj/__19q1q53qs6gq4pntp7bbhc0000gn/T/979be103-cf3b-44c4-ba6d-8cc813935f26/home/mdierke2/cs233/Lab7/test_problem2_2.s",
+		"/private/var/folders/bj/__19q1q53qs6gq4pntp7bbhc0000gn/T/979be103-cf3b-44c4-ba6d-8cc813935f26/home/mdierke2/cs233/Lab8/p2.s",
+		"/Users/Matthew/Downloads/spimbot_fa12/README",
+		"/Users/Matthew/.ssh/id_rsa",
+		"/Users/Matthew/Documents/Chrome Extensions/Facebook Unicornifier/background.js",
+		"/Users/Matthew/Documents/Chrome Extensions/Facebook Unicornifier/manifest.json",
+		"/Users/Matthew/Documents/Chrome Extensions/Facebook Unicornifier/fb.js",
+		"/Users/Matthew/Documents/Chrome Extensions/Nyanbook/README.md",
+		"/Users/Matthew/Downloads/make_page_red/background.js",
+		"/Users/Matthew/Downloads/make_page_red/fb.js",
+		"/Users/Matthew/Downloads/make_page_red/manifest.json",
+		"/Users/Matthew/Downloads/make_page_red 2/background.js",
+		"/private/var/folders/bj/__19q1q53qs6gq4pntp7bbhc0000gn/T/17721bea-1433-4e33-9fec-a48d40fd7e15/home/mdierker/schedule.eatcumtd.com/js/Schedule.js",
+		"/private/var/folders/bj/__19q1q53qs6gq4pntp7bbhc0000gn/T/17721bea-1433-4e33-9fec-a48d40fd7e15/home/mdierker/schedule.eatcumtd.com/index.php",
+		"/private/var/folders/bj/__19q1q53qs6gq4pntp7bbhc0000gn/T/17721bea-1433-4e33-9fec-a48d40fd7e15/home/mdierker/schedule.eatcumtd.com/css/alertify/alertify.css",
+		"/private/var/folders/bj/__19q1q53qs6gq4pntp7bbhc0000gn/T/17721bea-1433-4e33-9fec-a48d40fd7e15/home/mdierker/schedule.eatcumtd.com/js/alertify/alertify.min.js",
+		"/private/var/folders/bj/__19q1q53qs6gq4pntp7bbhc0000gn/T/17721bea-1433-4e33-9fec-a48d40fd7e15/home/mdierker/.php/5.3/phprc",
+		"/private/var/folders/bj/__19q1q53qs6gq4pntp7bbhc0000gn/T/979be103-cf3b-44c4-ba6d-8cc813935f26/home/mdierke2/cs233/Lab13/amplifier-examples/copy.c",
+		"/private/var/folders/bj/__19q1q53qs6gq4pntp7bbhc0000gn/T/979be103-cf3b-44c4-ba6d-8cc813935f26/home/mdierke2/cs233/Lab13/amplifier-examples/mmm.c",
+		"/private/var/folders/bj/__19q1q53qs6gq4pntp7bbhc0000gn/T/979be103-cf3b-44c4-ba6d-8cc813935f26/home/mdierke2/cs233/Lab13/amplifier-examples/sum.c",
+		"/Users/Matthew/Desktop/test.c",
+		"/private/var/folders/bj/__19q1q53qs6gq4pntp7bbhc0000gn/T/979be103-cf3b-44c4-ba6d-8cc813935f26/home/mdierke2/cs233/Lab12/trace2",
+		"/private/var/folders/bj/__19q1q53qs6gq4pntp7bbhc0000gn/T/979be103-cf3b-44c4-ba6d-8cc813935f26/home/mdierke2/cs233/Lab12/parse_input.c",
+		"/private/var/folders/bj/__19q1q53qs6gq4pntp7bbhc0000gn/T/979be103-cf3b-44c4-ba6d-8cc813935f26/home/mdierke2/cs233/Lab12/trace3",
+		"/private/var/folders/bj/__19q1q53qs6gq4pntp7bbhc0000gn/T/979be103-cf3b-44c4-ba6d-8cc813935f26/home/mdierke2/cs233/Lab12/trace4",
+		"/private/var/folders/bj/__19q1q53qs6gq4pntp7bbhc0000gn/T/979be103-cf3b-44c4-ba6d-8cc813935f26/home/mdierke2/cs233/Lab12/cache.c",
+		"/private/var/folders/bj/__19q1q53qs6gq4pntp7bbhc0000gn/T/979be103-cf3b-44c4-ba6d-8cc813935f26/home/mdierke2/cs233/Lab12/out.txt",
+		"/private/var/folders/bj/__19q1q53qs6gq4pntp7bbhc0000gn/T/979be103-cf3b-44c4-ba6d-8cc813935f26/home/mdierke2/cs233/Lab12/cache.h",
+		"/private/var/folders/bj/__19q1q53qs6gq4pntp7bbhc0000gn/T/979be103-cf3b-44c4-ba6d-8cc813935f26/home/mdierke2/cs233/_shared/gcc-trace.output",
+		"/private/var/folders/bj/__19q1q53qs6gq4pntp7bbhc0000gn/T/979be103-cf3b-44c4-ba6d-8cc813935f26/home/mdierke2/cs233/_shared/gcc-trace.verbose.output",
+		"/Users/Matthew/Library/Application Support/Sublime Text 2/Packages/FileDiffs/FileDiffs.sublime-settings",
+		"/Users/Matthew/Library/Application Support/Sublime Text 2/Packages/DocBlockr/Base File.sublime-settings",
+		"/private/var/folders/bj/__19q1q53qs6gq4pntp7bbhc0000gn/T/979be103-cf3b-44c4-ba6d-8cc813935f26/home/mdierke2/cs233/_shared/gcc-trace.verbose",
+		"/private/var/folders/bj/__19q1q53qs6gq4pntp7bbhc0000gn/T/979be103-cf3b-44c4-ba6d-8cc813935f26/home/mdierke2/cs233/_shared/gcc-trace",
+		"/private/var/folders/bj/__19q1q53qs6gq4pntp7bbhc0000gn/T/979be103-cf3b-44c4-ba6d-8cc813935f26/home/mdierke2/cs233/Lab12/trace1",
+		"/private/var/folders/bj/__19q1q53qs6gq4pntp7bbhc0000gn/T/979be103-cf3b-44c4-ba6d-8cc813935f26/home/mdierke2/cs233/Lab12/Makefile",
+		"/private/var/folders/bj/__19q1q53qs6gq4pntp7bbhc0000gn/T/17721bea-1433-4e33-9fec-a48d40fd7e15/home/mdierker/partyrockillinois.com/wp-content/plugins/facebook-comments-for-wordpress/facebook-comments-ajax.php",
+		"/private/var/folders/bj/__19q1q53qs6gq4pntp7bbhc0000gn/T/17721bea-1433-4e33-9fec-a48d40fd7e15/home/mdierker/partyrockillinois.com/wp-content/plugins/facebook-comments-for-wordpress/facebook-comments-admin.php",
+		"/Users/Matthew/Documents/School/CS 373/HW3.tex",
+		"/private/var/folders/bj/__19q1q53qs6gq4pntp7bbhc0000gn/T/17721bea-1433-4e33-9fec-a48d40fd7e15/home/mdierker/mdev.my.eatcumtd.com/phpinfo.php",
+		"/Users/Matthew/Downloads/automod-1.0.1/docs/INSTALL",
+		"/Users/Matthew/Downloads/automod-1.0.1/README.md",
+		"/Users/Matthew/Downloads/keycaptcha_2_0_1 2/modx.prosilver.en.xsl",
+		"/private/var/folders/bj/__19q1q53qs6gq4pntp7bbhc0000gn/T/17721bea-1433-4e33-9fec-a48d40fd7e15/home/mdierker/partyrockillinois.com/wiki/LocalSettings.php",
+		"/Users/Matthew/Dropbox/JLayerPlayer/src/MP3.java",
+		"/Users/Matthew/Documents/School/CS 373/HW7.tex",
+		"/Users/Matthew/Downloads/hw8 (1).tex",
+		"/Users/Matthew/Documents/School/CS 373/HW6.tex",
+		"/Users/Matthew/Documents/School/CS 373/HW6.aux",
+		"/Users/Matthew/Documents/School/CS 373/HW8",
+		"/Users/Matthew/Desktop/test.html",
+		"/private/var/folders/bj/__19q1q53qs6gq4pntp7bbhc0000gn/T/17721bea-1433-4e33-9fec-a48d40fd7e15/home/mdierker/schedule.eatcumtd.com/fb/save-access-token.php",
+		"/private/var/folders/bj/__19q1q53qs6gq4pntp7bbhc0000gn/T/17721bea-1433-4e33-9fec-a48d40fd7e15/home/mdierker/schedule.eatcumtd.com/.gitignore",
+		"/private/var/folders/bj/__19q1q53qs6gq4pntp7bbhc0000gn/T/17721bea-1433-4e33-9fec-a48d40fd7e15/home/mdierker/schedule.eatcumtd.com/config.php",
+		"/private/var/folders/bj/__19q1q53qs6gq4pntp7bbhc0000gn/T/17721bea-1433-4e33-9fec-a48d40fd7e15/home/mdierker/schedule.eatcumtd.com/scripts/ethics.php",
+		"/Users/Matthew/Documents/Scheduler/Scheduler Server/Procfile",
+		"/Users/Matthew/Documents/Scheduler/Scheduler Server/pom.xml",
+		"/private/var/folders/bj/__19q1q53qs6gq4pntp7bbhc0000gn/T/17721bea-1433-4e33-9fec-a48d40fd7e15/home/mdierker/schedule.eatcumtd.com/class_checker/index.php",
+		"/private/var/folders/bj/__19q1q53qs6gq4pntp7bbhc0000gn/T/17721bea-1433-4e33-9fec-a48d40fd7e15/home/mdierker/mdev.my.eatcumtd.com/pull.php",
+		"/Users/Matthew/Desktop/petitions.whitehouse",
+		"/private/var/folders/bj/__19q1q53qs6gq4pntp7bbhc0000gn/T/979be103-cf3b-44c4-ba6d-8cc813935f26/home/mdierke2/cs233/Lab10/rom.v",
+		"/private/var/folders/bj/__19q1q53qs6gq4pntp7bbhc0000gn/T/979be103-cf3b-44c4-ba6d-8cc813935f26/home/mdierke2/cs233/Lab10/pipelined_machine_tb.v",
+		"/private/var/folders/bj/__19q1q53qs6gq4pntp7bbhc0000gn/T/979be103-cf3b-44c4-ba6d-8cc813935f26/home/mdierke2/cs233/Lab10/modules.v"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"weather",
+			"minute",
+			"finishLo",
+			"onAuthChange",
+			"clearWidgets",
+			"clearWidgest",
+			"laundry",
+			"addData",
+			"Laundry",
+			"updateWidget",
+			"getExistingWidgets",
+			"clearWidgets",
+			"this.clearWidgets",
+			"getExistingWidgets",
+			"this.getExistingWidgets",
+			"getExistingWidgets",
+			"site.js",
+			"this.desktop",
+			"WidgetType",
+			"setupDashboard",
+			"addNewWidgetWithType",
+			"add-widget-button",
+			"makeDivWidget",
+			"makeDraggable",
+			"draggable",
+			"this.widgetAdded",
+			"updateWidget",
+			"resize",
+			"addNewWidget",
+			"resize",
+			"size",
+			"Size",
+			"setSize",
+			".remove",
+			"remove",
+			"initialLoadStopsForID",
+			"click",
+			"addNewWidgetWithType",
+			"setClickListener",
+			"$id",
+			"id",
+			"token",
+			"setupSelectChangeListener",
+			"setInterval",
+			"this.addStp[",
+			"this.addStp",
+			"clearResults",
+			"loadStopsForID",
+			"initialLoadStopsForID",
+			"selectedStopName",
+			"selectedStop",
+			"getExisting",
+			"setupDashboard",
+			"onLogin",
+			"setupFacebook",
+			"draggable",
+			"loadStopsForId",
+			"updateWidget",
+			"getHEight",
+			"getHeight",
+			"addResult",
+			"append",
+			"console.log",
+			"getHeight",
+			"select",
+			"loadStopsForID",
+			"setClick",
+			"click",
+			"widgetData",
+			"getFormattedTime",
+			"loadStopsForId",
+			"initialLoadStopsForId",
+			"d",
+			"initialLoadStopsForID",
+			"select",
+			"=",
+			"top-line",
+			"updateListing",
+			"function",
+			"loadStopsForID",
+			"1",
+			"getTime",
+			"printTime",
+			"margin",
+			"style=\"margin-left: 20px;\"",
+			"style",
+			"style=\"margin-left: 20px;\"",
+			"250",
+			"500",
+			"setupDashboard",
+			"this.setupDashboard",
+			"addResizeLi",
+			"makeDivWidget",
+			"addResizeListener",
+			"'#' + this.id",
+			"makeAllDraggable",
+			"this.makeAllDraggable",
+			"addWidget",
+			"widget.pro",
+			"updateWidget",
+			"this.updateWidget",
+			"addResizeListener",
+			"this.addResizeListener",
+			"this.makeDivWidget",
+			"This",
+			"distraction",
+			"solveMaze",
+			"itemize",
+			"parentDiv",
+			"setupTimer",
+			"jquery",
+			"jal",
+			"sort_list",
+			"li $t0,",
+			"elements[a]",
+			"00000000",
+			"printf",
+			"R 1",
+			"nways",
+			"o",
+			"tag",
+			"log2",
+			"block_size",
+			"stack",
+			"...",
+			"setupDashboard",
+			"div",
+			"this.widget"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"pipelineFlush",
+			"2",
+			".indexOf",
+			"IndexOf",
+			"lastIndexOf",
+			"\"",
+			"$from",
+			"lw",
+			")\\}",
+			"\\{(",
+			"b =",
+			"''",
+			"move",
+			"20",
+			"lw",
+			"mainAluOverflow",
+			"mainAluZero",
+			"mainAluNegative",
+			"`OP",
+			"'OP",
+			"pcAlu",
+			"pcBranchOffsetAlu",
+			"lineNumber",
+			"+",
+			"acceptNew",
+			"index",
+			"value",
+			"getIndex",
+			"getValue()",
+			"-moz",
+			"<span class=\"outer-overlay\"><span class=\"overlay\"></span></span>",
+			"span",
+			"overlay-",
+			"overlay-animate",
+			"overlay-",
+			"3",
+			"2",
+			"-moz",
+			"]);",
+			"points.push([",
+			"-moz",
+			"object",
+			"EarthFetcher.prototype",
+			"checkFacebook",
+			"player",
+			"// console.log",
+			"this.startRound",
+			"sendMessageToWindow(",
+			"Go",
+			"Leader",
+			"this",
+			"this.sharedState()",
+			"http://arkitecktur.appspot.com/",
+			"windows",
+			"players",
+			"this._names.push",
+			" ",
+			".",
+			"StartRound.prototype.",
+			"z ",
+			"v ",
+			"f ",
+			"none",
+			"../",
+			"./",
+			"js",
+			"../js",
+			"indexOf",
+			"upload-plugin/js/",
+			"echo template_image_path;"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"bus.js",
+				"/private/var/folders/bj/__19q1q53qs6gq4pntp7bbhc0000gn/T/17721bea-1433-4e33-9fec-a48d40fd7e15/home/mdierker/mdev.my.eatcumtd.com/js/widgets/cumtd/bus.js"
+			],
+			[
+				"widget",
+				"/private/var/folders/bj/__19q1q53qs6gq4pntp7bbhc0000gn/T/17721bea-1433-4e33-9fec-a48d40fd7e15/home/mdierker/mdev.my.eatcumtd.com/js/Widget.js"
+			],
+			[
+				"site",
+				"/private/var/folders/bj/__19q1q53qs6gq4pntp7bbhc0000gn/T/17721bea-1433-4e33-9fec-a48d40fd7e15/home/mdierker/mdev.my.eatcumtd.com/js/Site.js"
+			],
+			[
+				"site.css",
+				"/private/var/folders/bj/__19q1q53qs6gq4pntp7bbhc0000gn/T/17721bea-1433-4e33-9fec-a48d40fd7e15/home/mdierker/mdev.my.eatcumtd.com/css/site.css"
+			],
+			[
+				"weather",
+				"/private/var/folders/bj/__19q1q53qs6gq4pntp7bbhc0000gn/T/17721bea-1433-4e33-9fec-a48d40fd7e15/home/mdierker/mdev.my.eatcumtd.com/js/widgets/weather/weather.js"
+			],
+			[
+				"site.js",
+				"/private/var/folders/bj/__19q1q53qs6gq4pntp7bbhc0000gn/T/17721bea-1433-4e33-9fec-a48d40fd7e15/home/mdierker/mdev.my.eatcumtd.com/js/Site.js"
+			],
+			[
+				"index",
+				"/private/var/folders/bj/__19q1q53qs6gq4pntp7bbhc0000gn/T/17721bea-1433-4e33-9fec-a48d40fd7e15/home/mdierker/mdev.my.eatcumtd.com/index.php"
+			],
+			[
+				"laundry",
+				"/private/var/folders/bj/__19q1q53qs6gq4pntp7bbhc0000gn/T/17721bea-1433-4e33-9fec-a48d40fd7e15/home/mdierker/mdev.my.eatcumtd.com/js/widgets/laundry/laundry.html"
+			],
+			[
+				"inde",
+				"/private/var/folders/bj/__19q1q53qs6gq4pntp7bbhc0000gn/T/17721bea-1433-4e33-9fec-a48d40fd7e15/home/mdierker/mdev.my.eatcumtd.com/index.php"
+			],
+			[
+				"bus.",
+				"/private/var/folders/bj/__19q1q53qs6gq4pntp7bbhc0000gn/T/17721bea-1433-4e33-9fec-a48d40fd7e15/home/mdierker/mdev.my.eatcumtd.com/js/widgets/cumtd/bus.js"
+			],
+			[
+				"hw",
+				"HW9.tex"
+			],
+			[
+				"hw9",
+				"HW9.tex"
+			],
+			[
+				"hw8.tex",
+				"HW8.tex"
+			],
+			[
+				"gm",
+				"gmail.js"
+			],
+			[
+				"ma",
+				"manifest.json"
+			],
+			[
+				"gmail",
+				"gmail.js"
+			],
+			[
+				"hw4",
+				"HW4.tex"
+			],
+			[
+				"hw3.tex",
+				"HW3.tex"
+			],
+			[
+				"hw4.te",
+				"HW4.tex"
+			],
+			[
+				"hw4.t",
+				"HW4.tex"
+			],
+			[
+				"f",
+				"/private/var/folders/bj/__19q1q53qs6gq4pntp7bbhc0000gn/T/17721bea-1433-4e33-9fec-a48d40fd7e15/home/mdierker/my.eatcumtd.com/js/fb-fetcher.js"
+			],
+			[
+				"",
+				"/private/var/folders/bj/__19q1q53qs6gq4pntp7bbhc0000gn/T/fz3temp-1/socialcomments.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/Matthew/Documents/Scheduler/Scheduler.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
