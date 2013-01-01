@@ -38,7 +38,6 @@ def linear_merge(list1, list2):
     else:
       ret.append(list2[i2])
       i2 += 1
-
   return ret
 
 # Note: the solution above is kind of cute, but unforunately list.pop(0)
