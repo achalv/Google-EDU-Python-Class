@@ -40,8 +40,43 @@ def extract_names(filename):
   followed by the name-rank strings in alphabetical order.
   ['2006', 'Aaliyah 91', Aaron 57', 'Abagail 895', ' ...]
   """
-  # +++your code here+++
-  return
+  f = open(filename, 'r')
+
+  # Reads all lines in the file into one large string, useful for regex!
+  baby_file = f.read()
+
+  year_match = re.search(r'Popularity in (\d+)', baby_file)
+  if year_match == None:
+    print 'Error reading file %s, cannot find year' % filename
+    return None
+
+  year = year_match.group(1)
+
+  ret = []
+  ret.append(year)
+
+  names = {}
+
+  name_match = re.findall(r'(\d+)<.*?>([a-zA-Z]+)<.*?>([a-zA-Z]+)', baby_file)
+
+  for name_info in name_match:
+    rank = name_info[0]
+    male = name_info[1]
+    female = name_info[2]
+    if male in names:
+      names[male] = max(rank, names[male])
+    else:
+      names[male] = rank
+
+    if female in names:
+      names[female] = max(rank, names[female])
+    else:
+      names[female] = rank
+
+  for name in sorted(names.keys()):
+    ret.append(name + ' ' + str(names[name]))
+
+  return ret
 
 
 def main():
@@ -60,9 +95,15 @@ def main():
     summary = True
     del args[0]
 
-  # +++your code here+++
-  # For each filename, get the names, then either print the text output
-  # or write it to a summary file
-  
+  for arg in args:
+      baby_names = extract_names(arg)
+      output = '\n'.join(baby_names) + '\n'
+      if summary:
+        out = open(arg + '.summary', 'w')
+        out.write(output)
+        out.close()
+      else:
+        print output
+
 if __name__ == '__main__':
   main()
