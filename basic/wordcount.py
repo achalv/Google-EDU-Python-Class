@@ -45,6 +45,45 @@ import sys
 # and builds and returns a word/count dict for it.
 # Then print_words() and print_top() can just call the utility function.
 
+def print_words(filename):
+  wordMap = get_word_map(filename)
+
+  for word in sorted(wordMap.keys()):
+    print word + ' - ' + str(wordMap[word])
+
+def print_top(filename):
+  wordMap = get_word_map(filename)
+
+  count = 0;
+  sortedList = sorted(wordMap.items(), key=secondTupleValue, reverse=True)
+  for word in sortedList:
+    if count >= 20:
+      break;
+
+    print word[0] + ' - ' + str(word[1])
+
+    count += 1
+
+def secondTupleValue(tuple):
+  return tuple[1]
+
+
+def get_word_map(filename):
+  wordMap = {}
+  f = open(filename, 'r')
+  for line in f:
+    words = line.lower().split()
+    for word in words:
+      if word in wordMap:
+        wordMap[word] += 1
+      else:
+        wordMap[word] = 1
+
+  # Close the file
+  f.close()
+
+  return wordMap
+
 ###
 
 # This basic command line argument parsing code is provided and
