@@ -18,7 +18,16 @@ import commands
 # +++your code here+++
 # Write functions and modify main() to call them
 
-
+# Returns a list of all files with a special path
+def get_special_paths(dir):
+  files = os.listdir(dir)
+  ret = []
+  for file_name in files:
+    is_special = re.match('\w*__\w+__.?\w*', file_name)
+    if is_special:
+      file_path = os.path.abspath(os.path.join(dir, file_name))
+      ret.append(file_path)
+  return ret
 
 def main():
   # This basic command line argument parsing code is provided.
@@ -50,6 +59,14 @@ def main():
 
   # +++your code here+++
   # Call your functions
-  
+
+  for folder in args:
+    paths = get_special_paths(folder)
+    if todir != '':
+      if not os.path.exists(todir):
+        os.mkdir(todir)
+      for file_path in paths:
+        shutil.copy(file_path, os.path.abspath(todir))
+
 if __name__ == "__main__":
   main()
