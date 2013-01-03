@@ -10,7 +10,7 @@ import sys
 import re
 import os
 import shutil
-import commands
+import subprocess
 
 """Copy Special exercise
 """
@@ -60,6 +60,8 @@ def main():
   # +++your code here+++
   # Call your functions
 
+  all_files = [];
+
   for folder in args:
     paths = get_special_paths(folder)
     if todir != '':
@@ -67,6 +69,21 @@ def main():
         os.mkdir(todir)
       for file_path in paths:
         shutil.copy(file_path, os.path.abspath(todir))
+    elif tozip != '':
+      # Zip things
+      all_files.append(paths)
+
+  if tozip != '':
+    # Zip things
+    zip_cmd = ['zip', '-j', tozip]
+    for path in paths:
+      zip_cmd.append(path)
+    print 'Executing > %s' % zip_cmd
+    try:
+      output = subprocess.check_output(zip_cmd)
+      print 'Output: ' + output
+    except subprocess.CalledProcessError:
+      print 'Error creating zip file'
 
 if __name__ == "__main__":
   main()
