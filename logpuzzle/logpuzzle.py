@@ -24,8 +24,28 @@ def read_urls(filename):
   extracting the hostname from the filename itself.
   Screens out duplicate urls and returns the urls sorted into
   increasing order."""
-  # +++your code here+++
-  
+
+  base_url = filename[filename.index('_')+1:]
+
+  ret = []
+  f = open(filename, 'r')
+  # Read all lines
+  logs = f.read()
+
+  url_matches = re.findall('GET\s(\S+)\sHTTP/', logs)
+
+  urls = {}
+
+  for url in url_matches:
+    if url not in urls:
+      urls[url] = 0
+    urls[url] += 1
+
+  for url in sorted(urls.keys()):
+    if  "puzzle" in url and urls[url] > 1:
+      ret.append('http://' + base_url + url)
+  return ret;
+
 
 def download_images(img_urls, dest_dir):
   """Given the urls already in the correct order, downloads
@@ -35,8 +55,37 @@ def download_images(img_urls, dest_dir):
   with an img tag to show each local image file.
   Creates the directory if necessary.
   """
-  # +++your code here+++
-  
+  if not os.path.exists(dest_dir):
+    os.mkdir(dest_dir)
+
+  count = 0
+
+  for img in img_urls:
+    ufile = urllib.urlopen(img)
+    info = ufile.info()
+    if "image" in info.gettype():
+      text = ufile.read()
+      f = open('img' + str(count) + '.jpg', 'w')
+      f.write(text)
+      f.close()
+      print "Image #%d downloaded" % count
+      count += 1
+
+  index_file = open('index.html', 'w')
+
+  # Create the HTML string for each image
+  all_imgs = '"><img src="'.join('img' + str(x) + '.jpg' for x in range(count))
+  all_imgs = '<img src="' + all_imgs + '">'
+
+  index_file.write("""
+    <html>
+    <body>
+    %s
+    </body>
+    </html>
+
+  """ % all_imgs)
+
 
 def main():
   args = sys.argv[1:]

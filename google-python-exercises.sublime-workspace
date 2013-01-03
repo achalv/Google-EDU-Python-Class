@@ -4,6 +4,14 @@
 		"selected_items":
 		[
 			[
+				"ret",
+				"ret	(local, instance)"
+			],
+			[
+				"el",
+				"else	(keyword, instance)"
+			],
+			[
 				"seup",
 				"setupSelectChangeListener"
 			],
@@ -503,13 +511,109 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "basic/string2.py",
+			"settings":
+			{
+				"buffer_size": 2454,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "basic/list1.py",
+			"settings":
+			{
+				"buffer_size": 3313,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "basic/list2.py",
+			"settings":
+			{
+				"buffer_size": 2472,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "basic/wordcount.py",
+			"settings":
+			{
+				"buffer_size": 2869,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "babynames/babynames.py",
+			"settings":
+			{
+				"buffer_size": 2814,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "babynames/baby1990.html",
+			"settings":
+			{
+				"buffer_size": 64235,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "copyspecial/copyspecial.py",
+			"settings":
+			{
+				"buffer_size": 2167,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "copyspecial/solution/copyspecial.py",
+			"settings":
+			{
+				"buffer_size": 2584,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 67.0,
+		"height": 107.0,
 		"selected_items":
 		[
+			[
+				"q",
+				"Git: Quick Commit"
+			],
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"quick",
+				"Git: Quick Commit"
+			],
+			[
+				"commit",
+				"Git: Quick Commit"
+			],
+			[
+				"am co",
+				"Git: Amend Commit"
+			],
+			[
+				"comit",
+				"Git: Commit"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"build",
+				"Build: Build"
+			],
 			[
 				"insta",
 				"Package Control: Install Package"
@@ -537,10 +641,6 @@
 			[
 				"remove",
 				"Package Control: Remove Package"
-			],
-			[
-				"instal",
-				"Package Control: Install Package"
 			],
 			[
 				"list ",
@@ -628,9 +728,17 @@
 	},
 	"file_history":
 	[
+		"/tmp/tmp1.txt",
+		"/tmp/tmp.txt",
+		"/Users/Matthew/Documents/python/google-python-exercises/babynames/baby1990.html.summary",
+		"/Users/Matthew/Library/Application Support/Sublime Text 2/Packages/User/Chrome.sublime-build",
+		"/Users/Matthew/Documents/python/google-python-exercises/babynames/baby1990.html",
+		"/Users/Matthew/Documents/python/google-python-exercises/basic/string1.py",
+		"/Users/Matthew/Library/Application Support/Sublime Text 2/Packages/Python/Python.sublime-build",
+		"/Users/Matthew/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/Matthew/.ssh/config",
 		"/Users/Matthew/.profile",
 		"/Users/Matthew/.bashrc",
-		"/Users/Matthew/.ssh/config",
 		"/private/var/folders/bj/__19q1q53qs6gq4pntp7bbhc0000gn/T/17721bea-1433-4e33-9fec-a48d40fd7e15/home/mdierker/mdev.my.eatcumtd.com/js/Widget.js",
 		"/private/var/folders/bj/__19q1q53qs6gq4pntp7bbhc0000gn/T/17721bea-1433-4e33-9fec-a48d40fd7e15/home/mdierker/mdev.my.eatcumtd.com/js/widgets/laundry/laundry.html",
 		"/private/var/folders/bj/__19q1q53qs6gq4pntp7bbhc0000gn/T/17721bea-1433-4e33-9fec-a48d40fd7e15/home/mdierker/mdev.my.eatcumtd.com/php/db/getuserswidgets.php",
@@ -747,15 +855,7 @@
 		"/private/var/folders/bj/__19q1q53qs6gq4pntp7bbhc0000gn/T/17721bea-1433-4e33-9fec-a48d40fd7e15/home/mdierker/schedule.eatcumtd.com/fb/save-access-token.php",
 		"/private/var/folders/bj/__19q1q53qs6gq4pntp7bbhc0000gn/T/17721bea-1433-4e33-9fec-a48d40fd7e15/home/mdierker/schedule.eatcumtd.com/.gitignore",
 		"/private/var/folders/bj/__19q1q53qs6gq4pntp7bbhc0000gn/T/17721bea-1433-4e33-9fec-a48d40fd7e15/home/mdierker/schedule.eatcumtd.com/config.php",
-		"/private/var/folders/bj/__19q1q53qs6gq4pntp7bbhc0000gn/T/17721bea-1433-4e33-9fec-a48d40fd7e15/home/mdierker/schedule.eatcumtd.com/scripts/ethics.php",
-		"/Users/Matthew/Documents/Scheduler/Scheduler Server/Procfile",
-		"/Users/Matthew/Documents/Scheduler/Scheduler Server/pom.xml",
-		"/private/var/folders/bj/__19q1q53qs6gq4pntp7bbhc0000gn/T/17721bea-1433-4e33-9fec-a48d40fd7e15/home/mdierker/schedule.eatcumtd.com/class_checker/index.php",
-		"/private/var/folders/bj/__19q1q53qs6gq4pntp7bbhc0000gn/T/17721bea-1433-4e33-9fec-a48d40fd7e15/home/mdierker/mdev.my.eatcumtd.com/pull.php",
-		"/Users/Matthew/Desktop/petitions.whitehouse",
-		"/private/var/folders/bj/__19q1q53qs6gq4pntp7bbhc0000gn/T/979be103-cf3b-44c4-ba6d-8cc813935f26/home/mdierke2/cs233/Lab10/rom.v",
-		"/private/var/folders/bj/__19q1q53qs6gq4pntp7bbhc0000gn/T/979be103-cf3b-44c4-ba6d-8cc813935f26/home/mdierke2/cs233/Lab10/pipelined_machine_tb.v",
-		"/private/var/folders/bj/__19q1q53qs6gq4pntp7bbhc0000gn/T/979be103-cf3b-44c4-ba6d-8cc813935f26/home/mdierke2/cs233/Lab10/modules.v"
+		"/private/var/folders/bj/__19q1q53qs6gq4pntp7bbhc0000gn/T/17721bea-1433-4e33-9fec-a48d40fd7e15/home/mdierker/schedule.eatcumtd.com/scripts/ethics.php"
 	],
 	"find":
 	{
@@ -774,6 +874,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"male",
+			"xwords",
+			"ec2",
 			"weather",
 			"minute",
 			"finishLo",
@@ -898,10 +1001,7 @@
 			"log2",
 			"block_size",
 			"stack",
-			"...",
-			"setupDashboard",
-			"div",
-			"this.widget"
+			"..."
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -989,8 +1089,233 @@
 	"groups":
 	[
 		{
+			"selected": 6,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "basic/string2.py",
+					"settings":
+					{
+						"buffer_size": 2454,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								648,
+								648
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "basic/list1.py",
+					"settings":
+					{
+						"buffer_size": 3313,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1430,
+								1430
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 579.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "basic/list2.py",
+					"settings":
+					{
+						"buffer_size": 2472,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1152,
+								1152
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 585.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "basic/wordcount.py",
+					"settings":
+					{
+						"buffer_size": 2869,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1897,
+								1897
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 652.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "babynames/babynames.py",
+					"settings":
+					{
+						"buffer_size": 2814,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2613,
+								2618
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 921.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "babynames/baby1990.html",
+					"settings":
+					{
+						"buffer_size": 64235,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								388,
+								388
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "copyspecial/copyspecial.py",
+					"settings":
+					{
+						"buffer_size": 2167,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2072,
+								2072
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 676.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "copyspecial/solution/copyspecial.py",
+					"settings":
+					{
+						"buffer_size": 2584,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 363.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -1029,6 +1354,10 @@
 	{
 		"height": 100.0
 	},
+	"output.git":
+	{
+		"height": 100.0
+	},
 	"replace":
 	{
 		"height": 64.0
@@ -1039,6 +1368,42 @@
 		"height": 0.0,
 		"selected_items":
 		[
+			[
+				"copyspe",
+				"copyspecial/solution/copyspecial.py"
+			],
+			[
+				"co",
+				"copyspecial/copyspecial.py"
+			],
+			[
+				"baby",
+				"babynames/baby1990.html"
+			],
+			[
+				"babynames/",
+				"babynames/baby1990.html"
+			],
+			[
+				"wordo",
+				"basic/wordcount.py"
+			],
+			[
+				"list2.",
+				"basic/list2.py"
+			],
+			[
+				"list1",
+				"basic/list1.py"
+			],
+			[
+				"string2",
+				"basic/string2.py"
+			],
+			[
+				"string1.py",
+				"basic/string1.py"
+			],
 			[
 				"bus.js",
 				"/private/var/folders/bj/__19q1q53qs6gq4pntp7bbhc0000gn/T/17721bea-1433-4e33-9fec-a48d40fd7e15/home/mdierker/mdev.my.eatcumtd.com/js/widgets/cumtd/bus.js"
