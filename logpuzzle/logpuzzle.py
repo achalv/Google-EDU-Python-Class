@@ -18,6 +18,12 @@ Here's what a puzzle url looks like:
 10.254.254.28 - - [06/Aug/2007:00:13:48 -0700] "GET /~foo/puzzle-bar-aaab.jpg HTTP/1.0" 302 528 "-" "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.6) Gecko/20070725 Firefox/2.0.0.6"
 """
 
+def custom_sort_key(url):
+  matches = re.search(r'-\w+-(\w+).jpg', url)
+  if matches:
+    return matches.group(1)
+  else:
+    return url
 
 def read_urls(filename):
   """Returns a list of the puzzle urls from the given log file,
@@ -41,9 +47,11 @@ def read_urls(filename):
       urls[url] = 0
     urls[url] += 1
 
-  for url in sorted(urls.keys()):
+  for url in sorted(urls.keys(), key=custom_sort_key):
     if  "puzzle" in url and urls[url] > 1:
       ret.append('http://' + base_url + url)
+
+  print '\n'.join(ret)
   return ret;
 
 
